@@ -18,3 +18,12 @@
 
 # Cache of simulation results
 /simulation_results/
+
+.DS_Store
+
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+
+Gemfile.lock
