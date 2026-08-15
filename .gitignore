@@ -1,0 +1,29 @@
+# gitignore file for a SolidWorks project
+
+# SolidWorks temporary files
+~$*.sldprt
+~$*.sldasm
+~$*.slddrw
+~$*.sld
+
+# For systems with case-sensitive (SolidWorks uses both)
+~$*.SLDPRT
+~$*.SLDASM
+~$*.SLDDRW
+~$*.SLD
+
+# SolidWorks backups and auto-recovery
+*.bak
+*.swbak
+
+# Cache of simulation results
+/simulation_results/
+
+.DS_Store
+
+_site
+.sass-cache
+.jekyll-cache
+.jekyll-metadata
+
+Gemfile.lock
