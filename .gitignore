@@ -27,3 +27,5 @@ _site
 .jekyll-metadata
 
 Gemfile.lock
+# This folder is on my Mac and is to be locally synced
+/Luke_Collier_CV_TEX

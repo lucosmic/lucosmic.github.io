@@ -8,24 +8,24 @@ sidebar:
   education: True # set to False if you want education in main section instead of in sidebar
 
   # Profile information
-  name: Alan Doe
-  tagline: Full Stack Developer
-  avatar: profile.png #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+  name: Luke Collier
+  tagline: Engineer, Educator & Innovator - Industrial 3D Design & Art
+  avatar: Luke-2020-10.jpg #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
   # Sidebar links
-  email: example@email.com
-  phone: 012 345 6789
-  timezone: America/Cancun # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
+  email: collierpro@gmail.com
+  # phone: 720-555-0000
+  timezone: America/Denver # Enter your timezone, e.g., America/Havana, Africa/Casablanca, America/North_Dakota/Center
   citizenship:
-  website: https://example.com/ # Include the full website URL, including "http://" or "https://".
-  linkedin: alandoe
-  xing: alandoe
-  github: jekyll
+  website: https://linktr.ee/lukecollier # Include the full website URL, including "http://" or "https://".
+  linkedin: LukeCollierPro
+  xing:
+  github: lucosmic
   telegram: # add your nickname without '@' sign
   gitlab:
   bitbucket:
-  bluesky: '@jekyllrb.bsky.social' # Specify your full Bluesky handle
-  twitter: '@jekyllrb'
+  bluesky: # Specify your full Bluesky handle
+  twitter: # add your Twitter handle with @
   stack-overflow: # Number/Username, e.g. 123456/alandoe
   codewars:
   goodreads: # Number-Username, e.g. 123456-alandoe
@@ -40,246 +40,287 @@ sidebar:
     - idiom: English
       level: Native
 
-    - idiom: French
-      level: Professional
-
     - idiom: Spanish
-      level: Professional
+      level: A2 + 4 mos. immersion
 
   interests:
     title: Interests
     info:
-    - item: Climbing
+    - item: 3D Design
       link:
 
-
-    - item: Snowboarding
+    - item: Fabrication Techniques
       link:
 
-
-    - item: Cooking
+    - item: Prototyping
       link:
 
+    - item: Community Support
+      link:
+
+    - item: Canyoneering (ACE L1 trained)
+      link:
 
 career-profile:
   title: Career Profile
   summary: |
-    Summarise your career here lorem ipsum dolor sit amet, consectetuer
-    adipiscing elit. You can [download this free resume/CV template here]().
-    Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-    penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-    Donec quam felis, ultricies nec, pellentesque eu.
-    Second paragraph if required.
+    Engineer, Educator & Innovator with extensive experience in industrial 3D design, CAD engineering, and art construction.
+    Passionate about empowering others to invent and create through collaboration and mentorship.
+    Specializes in mechanical design, prototyping, fabrication, and bringing creative visions to life while meeting safety standards.
 education:
   title: Education
   info:
-  - degree: MSc in Computer Science
-    university: University of London
-    time: 2011 - 2012
+  - degree: B.S. in Mechanical Engineering
+    university: University of Colorado Boulder
+    time: Graduated May 2020
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - degree: BSc in Applied Mathematics
-    university: Bristol University
-    time: 2007 - 2011
+      GPA: 3.14
+      Passed FE Exam
+      
+      Notable coursework and projects:
+        - Flow Visualization: Photography and scientific essays of fluid phenomena (flowvis.org/author/2018lukec)
+        - Thermodynamics: Designed and built turbojet engine in CAD; exceeded final project standards
+        - Capstone Project with EmergenTek: Developed CAD design, drawings, and 3D-printed prototypes for handheld Target Acquisition Device meeting NFPA standards
+        - Won People's Choice Award at CU Boulder Engineering Projects Expo 2019
+
+  - degree: Engineering & Society in Spain Study Abroad Program
+    university: CIEE + Universidad Carlos III Madrid
+    time: Aug -- Dec 2019
     details: |
-      Describe your study here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-      sociis natoque penatibus et magnis dis parturient montes, nascetur
-      ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-      pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Achieved Español A2 fluency through immersion program.
 
 experiences:
   title: Experiences
   info:
-  - role: Lead Developer
-    time: 2015 - Present
-    company: Startup Hubs, San Francisco
+  - role: CAD Design + Engineering Technician
+    company: Elementum 3D
+    link: https://www.elementum3d.com/
+    time: Oct 2021 -- May 2024
+    location: Erie, Colorado
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-      enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-      error sit voluptatem accusantium doloremque laudantium, totam rem
-      aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-      architecto beatae vitae dicta sunt explicabo.
-        - Bullet point
-        - Bullet point
-  - role: Senior Software Engineer
-    time: 2014 - 2015
-    company: Google, London
+      Generated 3D CAD layouts for industrial equipment and fabrication drawings of mechanical system assemblies.
+      Integrated vendor designs to inform critical decisions.
+      Built industrial equipment structure for investor showcase.
+      Refined details of P&ID diagrams for Industrial Automation Controls team.
+      Operated metallurgical lab equipment ensuring adherence to procedures, safety protocols, and documentation requirements.
+    skills:
+    - SolidWorks CAD
+    - Machine Design
+    - Fabrication
+    - ISO 9001
+
+  - role: Member, Freelance Maker
+    company: TinkerMill Makerspace
+    link: https://www.tinkermill.org/
+    time: 2014 -- Present
+    location: Longmont, CO
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
-  - role: UI Developer
-    time: 2012 - 2014
-    company: Amazon, London
+      Collaborated with members on 3D design and fabrication techniques, empowering each other to invent and create.
+      Leveraged contract projects with local and high-profile clients to refine skills in prototyping, manufacturing, and programming.
+      Designed Sensor Conductor: An immersive exhibit on sensors for the Longmont Museum.
+    skills:
+    - Python
+    - Soldering
+    - 3D Printing
+    - Prototyping
+    - Bridgeport Mill
+
+  - role: Art Engineering & Construction (Sub-contractor)
+    company: Meow Wolf
+    link: https://meowwolf.com/visit/denver
+    time: 2020 - Mar 2021
+    location: Denver, CO
     details: |
-      Describe your role here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-      Cum sociis natoque penatibus et magnis dis parturient montes,
-      nascetur ridiculus mus. Donec quam felis, ultricies nec,
-      pellentesque eu, pretium quis, sem.
-        - Bullet point
-        - Bullet point
+      Coordinated mechanical design and fabrication of critical elements for a permanent art exhibit meeting NFPA standards for safety and flammability.
+      Applied directors' technical feedback to rapidly improve an electronic sculpture.
+      Provided comprehensive technical documentation on build and maintenance procedures.
+    skills:
+    - AutoCAD
+    - Standards Compliance
+    - Integration
+    - Documentation
+
+  - role: Product Engineer
+    company: EdBoard Technologies
+    link: https://www.edboardtechnologies.com/
+    time: 2018 - 2023
+    location: Boulder, Colorado
+    details: |
+      Supported an edu-tech STEM startup to deliver product funded on Kickstarter.
+      Designed and manufactured demo-ready prototypes of circuitry learning tool.
+      Performed preliminary tests to conform to ASTM F963-17 toy safety standards.
+      Coordinated a product demo workshop with an after-school kids' group in Spain.
+    skills:
+    - Product Design
+    - Failure Analysis
+    - PCB Design
+    - DFM (Design for Manufacturing)
+
+  - role: Engineering, Design, Maintenance (Contractor)
+    company: Zometool, Inc
+    link: https://zometool.com/
+    time: 2011 - 2022
+    location: Longmont, CO
+    details: |
+      Installed geometric sculptures shown at Meininger's and Denver Art Museum.
+      Designed and built a sheet metal tumbler to simplify separation of plastic parts.
+      Created 3D renderings of various Zometool models for instruction books.
+      Provided sales support for geometric building toy, involving e-commerce, online marketing, demonstration workshops, and inventory management.
+    skills:
+    - CAD
+    - Packaging Design
+    - Adobe InDesign
+    - Injection Molding
+    - Sheet Metal Fabrication
+
+  - role: Tech Camp Instructor
+    company: iD Tech Camps
+    link: https://www.idtech.com/
+    time: Summer 2017, Summer 2020-'21
+    location: Denver, CO + online
+    details: |
+      Adapted lessons to foster an engaging online environment as a virtual instructor.
+      Analyzed and concisely explained advanced topics in Game APIs with Java and Python.
+      Troubleshooted technical and programming issues during video-calls.
+      Piloted a hands-on student project presentation style with positive feedback.
+      Promoted a supportive camp culture as a brand ambassador for iD Tech.
+    skills:
+    - Leadership
+    - Java
+    - Python
+    - Troubleshooting
+    - Behaviour Management
+
+  - role: Engineering Contractor
+    company: InRedox LLC
+    link: https://www.inredox.com/
+    time: Summer 2019
+    location: Longmont, CO
+    details: |
+      Completed a Raspberry Pi based automated titrator including mechanical fixture design, programming of sensors and actuators, and GUI with Python.
+      Updated CAD models of a fixture for a step in the ALD wafer manufacturing process.
+    skills:
+    - SolidWorks
+    - Industrial Automation
+    - Optics
+    - Python
 
 certifications:
   title: Certifications
   list:
-  - name: CV Builder
-    start: 2020
-    end: 2021
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.google.com
-    credentialname: Google
-    details: |
-      Details about cert. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
-
-      Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-      fringilla vel. Ut euismod, sem sed vulputate venenatis,
-      justo diam viverra velit, sed rhoncus leo leo eu justo.
-      Suspendisse placerat risus ante, sed porta nisi blandit at.
-  - name: Git learning
-    start: 2019
+  - name: Certified SolidWorks Professional (CSWP)
+    start: 2016
     end:
-    organization: Microsoft
-    credentialid: 111-222
-    credentialurl: www.github.com
-    credentialname: Github
+    organization: Dassault Systèmes
+    credentialid: 
+    credentialurl: https://drive.google.com/file/d/1wd6KnY7iHycro3Jn5KTyUINuxG-ZNzvO/view?usp=sharing
+    credentialname: CSWP Certification
     details: |
-      Older certification. Lorem ipsum dolor sit amet, consectetur
-      adipiscing elit.
-      Nullam eget orci purus. Nullam ultrices neque nibh.
-      Aenean fermentum, felis vulputate suscipit accumsan,
-      sem enim bibendum augue, sed convallis arcu lacus at dui.
-      Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-      Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-      Praesent venenatis erat non augue suscipit consectetur.
+      10 years of experience with SolidWorks CAD software.
+      Professional-level certification demonstrating advanced skills in 3D modeling, assembly design, and drawing creation.
+
+  - name: Certificate in Engineering Management
+    start: 
+    end:
+    organization: University of Colorado Boulder
+    credentialid: 
+    credentialurl: https://drive.google.com/file/d/1hyjdDramc56QUrWrOXyb4Bjg8EP4ULWY/view?usp=sharing
+    credentialname: Engineering Management Certificate
+    details: |
+      Professional development in engineering management principles.
+
+  - name: Precision Machining - Manual
+    start: 2015
+    end:
+    organization: Front Range Community College
+    credentialid: 
+    credentialurl: 
+    credentialname: Manual Machining Certification
+    details: |
+      Training in manual milling and lathe operations.
+      Hands-on experience with precision machining techniques.
 
 projects:
   title: Projects
   intro: >
-    You can list your side projects in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Selected engineering and design projects demonstrating practical application of skills across various domains including industrial equipment, educational technology, and artistic installations.
   assignments:
-  - title: Velocity
-    link: "#hook"
-    tagline: "A responsive website template designed to help startups promote, market and sell their products."
+  - title: Sensor Conductor
+    link: https://www.longmontcolorado.gov/departments/departments-e-m/museum/exhibitions/robots-rising
+    tagline: "An immersive exhibit on sensors designed for the Longmont Museum."
 
-  - title: DevStudio
-    link: "#"
-    tagline: "A responsive website template designed to help web developers/designers market their services."
+  - title: EmergenTek Target Acquisition Device
+    link: https://www.emergentek.net/
+    tagline: "CAD design, drawings, and ergonomic 3D-printed prototypes for handheld device meeting NFPA standards."
 
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
+  - title: Automated Titrator System
+    link: https://www.inredox.com/
+    tagline: "Raspberry Pi based automated titrator with mechanical fixture design, sensor programming, and Python GUI."
 
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
+  - title: Turbojet Engine Project
+    link: 
+    tagline: "Designed in CAD and built a functional turbojet engine; exceeded final project standards."
 
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - title: Industrial Equipment Structure
+    link: 
+    tagline: "Built industrial equipment structure for investor showcase at Elementum 3D."
 
 oss:
-  title: OSS Contributions
+  title: Community Support
   intro: >
-    You can list your open source software contributions in this section. Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vestibulum et ligula in nunc bibendum fringilla a eu lectus.
+    Open source contributions and community involvement in maker spaces and educational initiatives.
   contributions:
-  - title: Tempo
-    link: "#"
-    tagline: "A responsive website template designed to help startups promote their products or services and to attract users &amp; investors"
-
-  - title: Atom
-    link: "#"
-    tagline: "A comprehensive website template solution for startups/developers to market their mobile apps."
-
-  - title: Delta
-    link: "#"
-    tagline: "A responsive Bootstrap one page theme designed to help app developers promote their mobile apps"
+  - title: TinkerMill Makerspace Collaboration
+    link: https://www.tinkermill.org/
+    tagline: "Contributing to the local makerspace community through collaboration on 3D design and fabrication techniques."
 
 publications:
   title: Publications
   intro: |
-    You can list your publications in this section. Lorem ipsum dolor sit
-    amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-    bibendum fringilla a eu lectus.
+    Selected works and contributions to technical documentation.
   papers:
-  - title: The Art of Computer Programming
-    link: "#"
-    authors: Donald E. Knuth
-    conference: Addison-Wesley, 1968
-
-  - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-    link: "#"
-    authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-    conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-  - title: A syntax directed compiler for Algol 60
-    link: "#"
-    authors: Edgar T. Irons
-    conference: "Comm. ACM 4 (1961), 51–55"
+  - title: Flow Visualization Portfolio
+    link: https://flowvis.org/author/2018lukec
+    authors: Luke Collier
+    conference: "Photography and scientific essays of fluid phenomena"
 
 recommendations:
   title: Recommendations
   list:
-  - person: Yareli Perez
-    email: perezyareli@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      Alan Doe is a super employee!
-  - person: Lara Henderson
-    email: larah@example.com
-    phone: 012 345 6789
-    role: General Director at example.com
-    recommendation: |
-      I would like to work with Alan Doe again!
-
-      He is a great employee!
+  # Add recommendations here as they become available
 
 skills:
   title: Skills &amp; Proficiency
 
   toolset:
-  - name: Python & Django
-    level: 98%
-
-  - name: Javascript & jQuery
-    level: 98%
-
-  - name: Angular
-    level: 98%
-
-  - name: HTML5 & CSS
+  - name: SolidWorks CAD
     level: 95%
 
-  - name: Ruby on Rails
+  - name: AutoCAD
     level: 85%
 
-  - name: Sketch & Photoshop
+  - name: Python Programming
+    level: 80%
+
+  - name: Java Programming
+    level: 75%
+
+  - name: 3D Printing & Prototyping
+    level: 90%
+
+  - name: Fabrication (MIG Welding, Sheet Metal)
+    level: 80%
+
+  - name: PCB Design
+    level: 70%
+
+  - name: Arduino / Raspberry Pi
+    level: 75%
+
+  - name: Adobe InDesign
+    level: 65%
+
+  - name: Blender3D
     level: 60%
 
 footer: >
